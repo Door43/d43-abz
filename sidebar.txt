@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abz:home|Door43 (abz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abz|d43-abz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abz/archive/master.zip|d43-abz.zip]]
+
+**Recent Changes**
+{{changes>ns = abz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abz|Ethnologue data]]
+
